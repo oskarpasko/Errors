@@ -3,7 +3,7 @@
 Solved errors for Nintendo 3DS
 
 # Table of contents
-1. ['crash_dump' error](#'crash_dump'-error)
+1. ['crash_dump' error](#crash_dump-error)
 
 
 ## 'crash_dump' error
