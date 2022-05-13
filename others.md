@@ -5,7 +5,7 @@ Solved other error or usefull links or tricks.
 # Table of contents
 1.[How to delete password on pdf's file](#delete-password-in-pdf)
 
-2.[README.md editor](#readme-editor)
+2.[README editor](#readme-editor)
 
 ## Delete password in pdf
 
